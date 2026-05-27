@@ -42,14 +42,4 @@ A high-performance, enterprise-grade car rental application engineered to demons
 ## 📂 Project Directory Structure
 
 ```text
-CAR RENT/
-├── backend_rent/           # Custom Java Server Architecture
-│   ├── src/handler/        # API Request Handlers & CORS Logic Middleware
-│   ├── src/model/          # Domain Entities (Car, User, Booking Objects)
-│   ├── src/service/        # Transaction & Core Business Logic
-│   └── *.txt               # Local Data Persistence Layer
-├── frontend/               # React 19 Interaction Framework
-│   ├── src/api/            # Network Integration Layer (Axios / Fetch Wrappers)
-│   ├── src/pages/          # Responsive View Views & Administrative Panels
-│   └── src/components/     # Reusable Component Architecture
-└── Car pics/               # Persistent Binary Image Data Directory
+

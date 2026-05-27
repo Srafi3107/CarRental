@@ -39,7 +39,4 @@ A high-performance, enterprise-grade car rental application engineered to demons
 
 ---
 
-## 📂 Project Directory Structure
-
-```text
 
